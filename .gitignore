@@ -29,3 +29,6 @@
 *.sn*
 *.sa*
 *.sg1
+
+# local
+*.DS_Store
