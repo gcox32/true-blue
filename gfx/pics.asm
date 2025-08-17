@@ -263,7 +263,8 @@ PidgeotPicBack::       INCBIN "gfx/pokemon/back/pidgeotb.pic"
 StarmiePicFront::      INCBIN "gfx/pokemon/front/starmie.pic"
 StarmiePicBack::       INCBIN "gfx/pokemon/back/starmieb.pic"
 
-RedPicBack::           INCBIN "gfx/player/redb.pic"
+; RedPicBack::           INCBIN "gfx/player/redb.pic"
+BluePicBack::          INCBIN "gfx/battle/blueb.pic" ; UPDATE
 OldManPicBack::        INCBIN "gfx/battle/oldmanb.pic"
 
 
@@ -350,7 +351,8 @@ JugglerPic::       INCBIN "gfx/trainers/juggler.pic"
 TamerPic::         INCBIN "gfx/trainers/tamer.pic"
 BirdKeeperPic::    INCBIN "gfx/trainers/birdkeeper.pic"
 BlackbeltPic::     INCBIN "gfx/trainers/blackbelt.pic"
-Rival1Pic::        INCBIN "gfx/trainers/rival1.pic"
+; Rival1Pic::        INCBIN "gfx/trainers/rival1.pic"
+Rival1Pic::        INCBIN "gfx/trainers/red.pic" ; UPDATE
 ProfOakPic::       INCBIN "gfx/trainers/prof.oak.pic"
 ChiefPic::
 ScientistPic::     INCBIN "gfx/trainers/scientist.pic"
@@ -367,8 +369,8 @@ KogaPic::          INCBIN "gfx/trainers/koga.pic"
 BlainePic::        INCBIN "gfx/trainers/blaine.pic"
 SabrinaPic::       INCBIN "gfx/trainers/sabrina.pic"
 GentlemanPic::     INCBIN "gfx/trainers/gentleman.pic"
-Rival2Pic::        INCBIN "gfx/trainers/rival2.pic"
-Rival3Pic::        INCBIN "gfx/trainers/rival3.pic"
+Rival2Pic::        INCBIN "gfx/trainers/red.pic" ; UPDATE
+Rival3Pic::        INCBIN "gfx/trainers/red.pic" ; UPDATE
 LoreleiPic::       INCBIN "gfx/trainers/lorelei.pic"
 ChannelerPic::     INCBIN "gfx/trainers/channeler.pic"
 AgathaPic::        INCBIN "gfx/trainers/agatha.pic"

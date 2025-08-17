@@ -27,5 +27,5 @@ PokedexTileGraphicsEnd:
 WorldMapTileGraphics: INCBIN "gfx/town_map/town_map.2bpp"
 WorldMapTileGraphicsEnd:
 
-PlayerCharacterTitleGraphics: INCBIN "gfx/title/player.2bpp"
+PlayerCharacterTitleGraphics: INCBIN "gfx/title/player.2bpp" ; UPDATE player.2bpp file is now Blue
 PlayerCharacterTitleGraphicsEnd:
